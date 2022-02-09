@@ -1,5 +1,7 @@
 # Platfrom Game
 
+Inspired from Eloquent's JS book! ツ
+
 ## How to play
 
 1. Use the right & left arrow keys to move.
