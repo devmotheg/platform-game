@@ -1,6 +1,6 @@
 # Platfrom Game
 
-Inspired from Eloquent's JS book! ツ
+Inspired from Eloquent JS book! ツ
 
 ## How to play
 
